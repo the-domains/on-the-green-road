@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
@@ -12,29 +10,31 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.7702128
-  brandStrength: 0.138671703170985
-  lightness: 0.7510638
+  saturation: 0.4
+  brandStrength: 0.6042553
+  lightness: 0.7042553
   brandColors:
-    - '#FFFFFF'
-    - '#303929'
-    - '#979797'
-    - '#000000'
-    - '#007AFF'
-  rhythmicContrast: 0.4191489
+    - '#020102'
+    - '#FBFDFB'
+    - '#BE020E'
+    - '#FA4A5C'
+    - '#FDFB04'
+  rhythmicContrast: 0.6297872
 typography_spectrum: 0.1510638
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: On the Green Road
